@@ -17,10 +17,9 @@ class App extends React.Component {
     return (
       <div className="App">
         <Navbar />
-        {/* <Router basename={process.env.PUBLIC_URL}>
+        <Router basename={process.env.PUBLIC_URL}>
           <Route path="/" component={Home} exact/>
-        </Router> */}
-        <Home/>
+        </Router>
       </div>
     );
   }
