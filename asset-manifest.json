@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-eshop/static/css/main.7781f61f.chunk.css",
+    "main.js": "/react-eshop/static/js/main.93c5f6e4.chunk.js",
+    "main.js.map": "/react-eshop/static/js/main.93c5f6e4.chunk.js.map",
+    "runtime~main.js": "/react-eshop/static/js/runtime~main.b736abdc.js",
+    "runtime~main.js.map": "/react-eshop/static/js/runtime~main.b736abdc.js.map",
+    "static/js/2.ec78b424.chunk.js": "/react-eshop/static/js/2.ec78b424.chunk.js",
+    "static/js/2.ec78b424.chunk.js.map": "/react-eshop/static/js/2.ec78b424.chunk.js.map",
+    "index.html": "/react-eshop/index.html",
+    "precache-manifest.2dc691a7d51c34082474ff01a48bbd72.js": "/react-eshop/precache-manifest.2dc691a7d51c34082474ff01a48bbd72.js",
+    "service-worker.js": "/react-eshop/service-worker.js",
+    "static/css/main.7781f61f.chunk.css.map": "/react-eshop/static/css/main.7781f61f.chunk.css.map",
+    "static/media/1.png": "/react-eshop/static/media/1.3debe024.png",
+    "static/media/2.jpg": "/react-eshop/static/media/2.e1cb0113.jpg",
+    "static/media/3.jpg": "/react-eshop/static/media/3.51acdfb7.jpg",
+    "static/media/3.png": "/react-eshop/static/media/3.f4f663d7.png",
+    "static/media/4.png": "/react-eshop/static/media/4.896efbb8.png",
+    "static/media/5.png": "/react-eshop/static/media/5.e4e782f6.png",
+    "static/media/nav_toggle.svg": "/react-eshop/static/media/nav_toggle.5cf6c680.svg",
+    "static/media/search.svg": "/react-eshop/static/media/search.d8da81ad.svg",
+    "static/media/shopping_bag.svg": "/react-eshop/static/media/shopping_bag.1d80b964.svg"
+  }
+}
