@@ -1,0 +1,23 @@
+[
+    {
+        "id": 0,
+        "title": "Lounge Chair",
+        "tag": "Limited Edition",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit reprehenderit animi obcaecati quasi laudantium debitis corrupti aut voluptate neque dolorem, quibusdam laboriosam quam maiores in ducimus excepturi dolore. Accusantium, modi.",
+        "image": "1.png"
+    },
+    {
+        "id": 1,
+        "title": "Lounge Chair 2",
+        "tag": "On Offer",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit reprehenderit animi obcaecati quasi laudantium debitis corrupti aut voluptate neque dolorem, quibusdam laboriosam quam maiores in ducimus excepturi dolore. Accusantium, modi.",
+        "image": "2.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Lounge Chair 3",
+        "tag": "Special Edition",
+        "desc": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sit reprehenderit animi obcaecati quasi laudantium debitis corrupti aut voluptate neque dolorem, quibusdam laboriosam quam maiores in ducimus excepturi dolore. Accusantium, modi.",
+        "image": "3.jpg"
+    }
+]
