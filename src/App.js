@@ -17,7 +17,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <Navbar />
-        <Router>
+        <Router basename="/react-eshop">
           <Route path="/" component={Home} exact/>
         </Router>
       </div>
