@@ -17,7 +17,7 @@ class App extends React.Component {
     return (
       <div className="App">
         <Navbar />
-        <Router basename="/react-eshop">
+        <Router basename={process.env.PUBLIC_URL}>
           <Route path="/" component={Home} exact/>
         </Router>
       </div>
